@@ -1,5 +1,5 @@
 # falseface
-Introducing masking URL technology to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+Introducing hiding URL technology.  Hide Phishing URL like a PRO.. A MUST have tool for Phishing.
 <img src="https://i.ibb.co/ZYM3LdJ/Pics-Art-06-18-04-35-06.png" alt="Pics-Art-06-18-04-35-06" border="0">
 # False Face
 It is a simple Bash Script to hide phishing URL under a normal looking URL(google.com or facebook.com).
